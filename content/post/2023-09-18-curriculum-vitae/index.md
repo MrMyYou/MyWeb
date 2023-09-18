@@ -1,4 +1,5 @@
 ---
+date: "2023-09-19T21:48:51-07:00"
 title: Mingyang You
 author: Curriculum Vitae
 slug: curriculum-vitae
