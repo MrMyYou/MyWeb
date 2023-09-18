@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-US
-title: Mingyang You's Personal Website
+title: A Hugo website
 theme: hugo-ivy
 googleAnalytics: ''
 disqusShortname: ''
@@ -12,12 +12,16 @@ permalinks:
   post: /:year/:month/:day/:slug/
 menu:
   main:
-    - name: CV
+    - name: About
       url: /about/
+    - name: GitHub
+      url: https://github.com/rstudio/blogdown
+    - name: Twitter
+      url: https://twitter.com/rstudio
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
-  description: A website that lets you know me better :)
+  description: A website built through Hugo and blogdown.
   favicon: favicon.ico
   highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
   highlightjsLang:
